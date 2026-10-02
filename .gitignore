@@ -1,0 +1,18 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+*.Rproj
+.Rproj.user/
+.Renviron
+.Rprofile
+
+# Output files
+output/*
+!output/.gitkeep
+
+# Screenshots
+screenshots/*
+!screenshots/.gitkeep
+
+# We DO NOT ignore data/mental_health_survey.csv because it's a synthetic dataset included for the project.
